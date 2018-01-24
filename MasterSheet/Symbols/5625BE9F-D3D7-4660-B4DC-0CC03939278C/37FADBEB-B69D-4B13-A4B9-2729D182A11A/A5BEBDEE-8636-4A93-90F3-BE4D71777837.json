@@ -1,7 +1,7 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "48185515-C658-4B84-BC05-C90C84EA440E",
+  "do_objectID": "A5BEBDEE-8636-4A93-90F3-BE4D71777837",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 447,
-    "width": 1208,
+    "height": 23,
+    "width": 70,
     "x": 0,
     "y": 0
   },
@@ -79,5 +79,23 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.edenvidal.states-for-sketch": {
+      "x-states-state-values": {
+        "07781F9B-7310-47EB-9529-96299B944594": {
+          "frame": "{{0, 0}, {32, 23}}",
+          "visible": 1
+        },
+        "175FFC19-D26B-429F-A098-231F1BB78B31": {
+          "frame": "{{0, 0}, {70, 23}}",
+          "visible": 1
+        },
+        "A74FFDEF-B93F-4C3A-BB60-B4C6FD849ACF": {
+          "frame": "{{0, 0}, {32, 23}}",
+          "visible": 1
+        }
+      }
+    }
+  }
 }

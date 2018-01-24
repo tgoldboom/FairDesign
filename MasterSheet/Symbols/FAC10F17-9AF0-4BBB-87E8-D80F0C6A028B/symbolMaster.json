@@ -1,0 +1,99 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 338,
+  "do_objectID": "FAC10F17-9AF0-4BBB-87E8-D80F0C6A028B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 63,
+    "x": 204,
+    "y": 74
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "8C4DF1C6-2E9C-4782-BEE4-7A0021B40688"
+    }
+  ],
+  "name": "Text / Regular / Right / Red",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "15119C59-5AFA-411A-BB72-305246E9AF36",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.edenvidal.states-for-sketch": {
+      "x-states-current-state": {
+        "UUID": "DC5AC9E8-5430-4F94-91CC-0EA4FC849BA3",
+        "title": "Initial State"
+      },
+      "x-states-default-state": {
+        "UUID": "DC5AC9E8-5430-4F94-91CC-0EA4FC849BA3",
+        "title": "Initial State"
+      },
+      "x-states-state-values": {
+        "DC5AC9E8-5430-4F94-91CC-0EA4FC849BA3": {
+          "frame": "{{204, 74}, {63, 17}}",
+          "visible": 1
+        }
+      },
+      "x-states-states": [
+        {
+          "UUID": "DC5AC9E8-5430-4F94-91CC-0EA4FC849BA3",
+          "title": "Initial State"
+        }
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

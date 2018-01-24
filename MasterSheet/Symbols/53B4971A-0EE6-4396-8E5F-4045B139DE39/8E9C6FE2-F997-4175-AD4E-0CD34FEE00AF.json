@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "d4c48a40-ff7b-11e7-aae4-f3597b708925",
+  "_class": "symbolInstance",
+  "do_objectID": "8E9C6FE2-F997-4175-AD4E-0CD34FEE00AF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,35 +13,31 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 23,
+    "width": 70,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "group",
-      "id": "68038956-0C48-448C-98B1-315F76376ED2"
-    }
-  ],
-  "name": "Page 1",
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Container",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -49,10 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "3E1649E9-7EF2-40D1-A87B-851C71815E79",
+  "verticalSpacing": 0
 }

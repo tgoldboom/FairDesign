@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "A1405FBE-55B4-42FE-A096-3CCCE438AEB6",
+  "do_objectID": "37FADBEB-B69D-4B13-A4B9-2729D182A11A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 733,
-    "width": 936,
-    "x": 245,
-    "y": 58
+    "height": 23,
+    "width": 70,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,12 +28,12 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "star",
-      "id": "357542D4-3138-4095-A631-23B8068B97EB"
+      "class": "rectangle",
+      "id": "A5BEBDEE-8636-4A93-90F3-BE4D71777837"
     }
   ],
-  "name": "Star",
-  "nameIsFixed": false,
+  "name": "Container",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -51,8 +51,8 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 0,
+        "isEnabled": false,
+        "position": 1,
         "thickness": 1
       }
     ],
@@ -63,9 +63,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.3803921568627451,
+          "green": 0.3882352941176471,
+          "red": 0.396078431372549
         },
         "fillType": 0,
         "isEnabled": true,
@@ -79,8 +79,20 @@
     "startDecorationType": 0
   },
   "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
+    "com.edenvidal.states-for-sketch": {
+      "x-states-state-values": {
+        "07781F9B-7310-47EB-9529-96299B944594": {
+          "frame": "{{0, 0}, {32, 23}}",
+          "visible": 1
+        },
+        "175FFC19-D26B-429F-A098-231F1BB78B31": {
+          "frame": "{{0, 0}, {70, 23}}",
+          "visible": 1
+        },
+        "A74FFDEF-B93F-4C3A-BB60-B4C6FD849ACF": {
+          "frame": "{{0, 0}, {32, 23}}",
+          "visible": 1
+        }
       }
     }
   },

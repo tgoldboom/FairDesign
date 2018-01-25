@@ -26,7 +26,7 @@
     "y": -36
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,6 +41,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "919EFAE6-4946-491D-A6B1-1D219911BD5F"
+    }
   ],
   "name": "Desktop HD",
   "nameIsFixed": false,

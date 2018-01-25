@@ -66,6 +66,11 @@
   },
   "textBehaviour": 1,
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    },
     "com.edenvidal.states-for-sketch": {
       "x-states-state-values": {
         "E375BB4A-7415-4CBB-A0A0-158CA80E8A02": {

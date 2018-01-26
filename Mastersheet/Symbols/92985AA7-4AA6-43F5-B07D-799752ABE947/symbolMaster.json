@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 6,
+  "changeIdentifier": 8,
   "do_objectID": "92985AA7-4AA6-43F5-B07D-799752ABE947",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -130
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,6 +46,10 @@
     {
       "class": "shapeGroup",
       "id": "9095B639-81B6-44D3-B1FC-B7F921A13A3B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3CEC26F-4056-4D2C-83A6-B6F4EA1A5F4B"
     }
   ],
   "name": "Jump to large",

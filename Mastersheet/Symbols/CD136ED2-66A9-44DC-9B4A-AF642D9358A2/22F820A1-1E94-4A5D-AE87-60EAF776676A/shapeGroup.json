@@ -63,5 +63,11 @@
     "sharedObjectID": "A93742BB-00F9-4F61-A4D3-18497765722F",
     "startDecorationType": 0
   },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "windingRule": 1
 }

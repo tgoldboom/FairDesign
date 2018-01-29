@@ -15,7 +15,7 @@
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "d4c4b150-ff7b-11e7-aae4-f3597b708925",
+  "do_objectID": "DA069EFA-DA4B-400D-A1AD-038D0D09F3D1",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
   "foreignSymbols": [
@@ -32,7 +32,13 @@
     "version": 97
   },
   "pages": [
+<<<<<<< HEAD
     "Page 1"
+=======
+    "MasterPage",
+    "Artboards",
+    "Symbols"
+>>>>>>> 0890410d621053992f417d36f65fd6cb321c5a5c
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

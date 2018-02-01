@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "B705F6E6-A86F-4CF6-8702-2CF48F154E80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 320,
+    "y": 220
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2AC328D3-F29F-466A-AF66-FB3870323EF0"
+    },
+    {
+      "class": "group",
+      "id": "6C9A2E80-2BD2-4E35-839B-5E3279612C02"
+    },
+    {
+      "class": "group",
+      "id": "C857D110-0EA3-4613-9E54-E4640A07F848"
+    }
+  ],
+  "name": "Magic flash - Frame",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "790A06A1-AA3A-48B1-AD10-58BD6F6039F5"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

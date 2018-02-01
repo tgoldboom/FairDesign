@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "0D196564-9257-4DC3-982E-84C1B47C7B06",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 240,
+    "y": 220
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D8E5704A-49CD-47EA-8FE3-36443140A567"
+    },
+    {
+      "class": "group",
+      "id": "2EF3FDBA-606C-4EBC-A760-4A2CBD49EFB9"
+    },
+    {
+      "class": "group",
+      "id": "2647CD7E-3BD5-4938-A8C5-39D429793FEB"
+    }
+  ],
+  "name": "Magic stars - Frame",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "790A06A1-AA3A-48B1-AD10-58BD6F6039F5"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

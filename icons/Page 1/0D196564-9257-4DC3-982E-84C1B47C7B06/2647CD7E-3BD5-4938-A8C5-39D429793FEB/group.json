@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "2647CD7E-3BD5-4938-A8C5-39D429793FEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 8.285714285714285,
+    "width": 8.857142857142843,
+    "x": 25.71428571428577,
+    "y": 5.714285714285679
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CFF173EE-CBCE-447C-9A12-59D77F5987B5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F4F57BF-D9BF-4A5F-B683-5F3D10EC8D8A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FFCCA2C-D1D7-4875-B38A-8AED1ED41CBC"
+    }
+  ],
+  "name": "Stars",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

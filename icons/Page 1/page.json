@@ -61,6 +61,14 @@
     {
       "class": "group",
       "id": "D03100B8-2751-4875-94FB-C50CFAA9B83B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A6247482-5663-4B87-AA2D-E6872AFDAFFD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8294AC65-52D5-42F1-85CB-7923E5BB62BF"
     }
   ],
   "name": "Page 1",
